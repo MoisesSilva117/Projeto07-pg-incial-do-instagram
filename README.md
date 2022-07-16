@@ -1,6 +1,6 @@
 Página inicial do Instagram - Projeto Bootcamp Dio
 
-Nesse projeto a gente reforçamos os aprendizado e os fundamentos do flebox na prática, tendo o pocionamento dos elemntos (2 columns, 1 row), e trabalhando com responsividade.
+Nesse projeto a gente reforçamos os aprendizado e os fundamentos do flebox na prática, tendo o posicionamento dos elementos (2 columns, 1 row), e trabalhando com responsividade.
 
 Mentora:https://github.com/SpruceGabriela
 
